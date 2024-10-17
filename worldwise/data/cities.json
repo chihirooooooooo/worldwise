@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Ragunda",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-10-17T15:41:45.843Z",
+      "notes": "",
+      "position": {
+        "lat": "62.97519757003266",
+        "lng": "16.567382812500004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Hassi Delaa",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-10-17T15:43:08.608Z",
+      "notes": "",
+      "position": {
+        "lat": "33.37641235124679",
+        "lng": "3.8232421875000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Ksabi",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-10-17T15:44:57.513Z",
+      "notes": "",
+      "position": {
+        "lat": "29.19053283229458",
+        "lng": "-0.7910156250000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Idles",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-10-17T15:45:44.842Z",
+      "notes": "",
+      "position": {
+        "lat": "26.509904531413927",
+        "lng": "5.031738281250001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Kumawu",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2024-10-17T15:46:25.513Z",
+      "notes": "",
+      "position": {
+        "lat": "7.013667927566642",
+        "lng": "-1.1425781250000002"
+      },
+      "id": 98443203
+    }
+  ]
+}
